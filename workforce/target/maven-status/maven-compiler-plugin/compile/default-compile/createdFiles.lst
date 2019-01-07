@@ -1,0 +1,10 @@
+com\employee\repository\UserRepository.class
+com\employee\services\UserServiceImpl.class
+com\employee\WorkforceApplication.class
+com\employee\repository\RoleRespository.class
+com\employee\services\UserService.class
+com\employee\controller\UserController.class
+com\employee\model\User.class
+com\employee\configuration\WebMvcConfig.class
+com\employee\configuration\SecurityConfiguration.class
+com\employee\model\Role.class
